@@ -15,7 +15,7 @@
 4. Correct selection: Score increases! ❇️ 
 5. Wrong selection: Game over! ❌
 
-## 📜 Smart Contract
+## 📜 Smart Contract 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
