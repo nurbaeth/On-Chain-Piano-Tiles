@@ -10,7 +10,7 @@
 
 ## 🎮 Game Rules
 1. Select a tile (0 to 3).
-2. You must wait a few blocks before the next move (game speed controlled by `gameSpeed`).
+2. You must wait a few blocks before the next move (game speed controlled by `gameSpeed`). 
 3. The game checks if your tile matches the correct one.
 4. Correct selection: Score increases! ❇️ 
 5. Wrong selection: Game over! ❌
